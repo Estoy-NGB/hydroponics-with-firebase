@@ -1,0 +1,1 @@
+This project is a fully functional hydroponics system developed on ESP32 board integrated with several sensors and the readings of the sensors are syncronized to google firebase.and a dynamic data base is created and furter the data is used for ananlysis and research
